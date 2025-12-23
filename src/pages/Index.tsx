@@ -36,6 +36,8 @@ const Index = () => {
           title="Creative Director & Designer"
           bio="Crafting meaningful digital experiences at the intersection of design, technology, and human connection."
           imageUrl={profilePhoto}
+          phone="+1 (555) 123-4567"
+          email="hello@alexandrareid.com"
         />
 
         <nav className="space-y-3 mb-12" aria-label="Main links">
