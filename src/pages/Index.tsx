@@ -38,7 +38,7 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <main className="max-w-xl mx-auto px-6 py-12 md:py-20">
         <ProfileHeader
-          name="Alexandra Reid"
+          name="Fahad Alqadeer"
           bio="Developer, creator, and coffee enthusiast. Building cool things on the internet."
           imageUrl={profilePhoto}
           phone="+966 53 304 5761"
