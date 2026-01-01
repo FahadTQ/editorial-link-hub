@@ -42,7 +42,7 @@ const Index = () => {
           bio="Developer, creator, and coffee enthusiast. Building cool things on the internet."
           imageUrl={profilePhoto}
           phone="+1 (555) 123-4567"
-          email="hello@alexandrareid.com"
+          email="AlqadeerF@gmail.com"
         />
 
         <nav className="border-t border-border" aria-label="Main links">
