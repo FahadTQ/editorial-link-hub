@@ -41,7 +41,7 @@ const Index = () => {
           name="Alexandra Reid"
           bio="Developer, creator, and coffee enthusiast. Building cool things on the internet."
           imageUrl={profilePhoto}
-          phone="+1 (555) 123-4567"
+          phone="+966 53 304 5761"
           email="AlqadeerF@gmail.com"
         />
 
