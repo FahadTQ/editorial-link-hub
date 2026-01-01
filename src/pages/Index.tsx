@@ -1,4 +1,4 @@
-import { Briefcase, Mail } from "lucide-react";
+import { Linkedin, Mail } from "lucide-react";
 import ProfileHeader from "@/components/ProfileHeader";
 import LinkButton from "@/components/LinkButton";
 
@@ -6,9 +6,9 @@ import profilePhoto from "@/assets/profile-photo.jpg";
 
 const links = [
   {
-    href: "https://example.com/portfolio",
-    label: "Portfolio",
-    icon: Briefcase,
+    href: "https://www.linkedin.com/in/fahadalqadeer",
+    label: "LinkedIn",
+    icon: Linkedin,
   },
   {
     href: "mailto:AlqadeerF@gmail.com",
