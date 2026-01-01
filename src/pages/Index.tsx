@@ -1,7 +1,7 @@
 import { Briefcase, Mail } from "lucide-react";
 import ProfileHeader from "@/components/ProfileHeader";
 import LinkButton from "@/components/LinkButton";
-import SocialLinks from "@/components/SocialLinks";
+
 import profilePhoto from "@/assets/profile-photo.jpg";
 
 const links = [
@@ -46,8 +46,6 @@ const Index = () => {
             </div>
           ))}
         </nav>
-
-        <SocialLinks />
       </main>
     </div>
   );
