@@ -39,7 +39,7 @@ const Index = () => {
       <main className="max-w-xl mx-auto px-6 py-12 md:py-20">
         <ProfileHeader
           name="Fahad Alqadeer"
-          bio="Developer, creator, and coffee enthusiast. Building cool things on the internet."
+          bio="CyberSecurity Consultant"
           imageUrl={profilePhoto}
           phone="+966 53 304 5761"
           email="AlqadeerF@gmail.com"
