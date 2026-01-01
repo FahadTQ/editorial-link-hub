@@ -1,4 +1,4 @@
-import { Briefcase, FileText, Youtube, ShoppingBag, Mail } from "lucide-react";
+import { Briefcase, Mail } from "lucide-react";
 import ProfileHeader from "@/components/ProfileHeader";
 import LinkButton from "@/components/LinkButton";
 import SocialLinks from "@/components/SocialLinks";
@@ -11,22 +11,7 @@ const links = [
     icon: Briefcase,
   },
   {
-    href: "https://example.com/blog",
-    label: "Latest Writing",
-    icon: FileText,
-  },
-  {
-    href: "https://youtube.com",
-    label: "YouTube",
-    icon: Youtube,
-  },
-  {
-    href: "https://example.com/shop",
-    label: "Shop",
-    icon: ShoppingBag,
-  },
-  {
-    href: "mailto:hello@example.com",
+    href: "mailto:AlqadeerF@gmail.com",
     label: "Contact",
     icon: Mail,
     highlighted: true,
